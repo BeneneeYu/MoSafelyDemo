@@ -37,3 +37,6 @@ Make sure you have the following software installed on your machine:
 2. Open your browser and visit `http://localhost:3000` to view the application.
 
 # Video
+
+<video src="https://github.com/BeneneeYu/MoSafelyDemo/assets/48000537/7bc6220c-6c7f-4366-874e-f5a97e92f1bd" controls="controls" style="max-width: 730px;">
+</video>
